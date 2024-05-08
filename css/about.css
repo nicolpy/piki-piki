@@ -1,0 +1,19 @@
+@media screen and (max-width: 780px) {
+    .seccion-about{
+        padding: 40px 140px;
+    }
+}
+
+@media screen and (max-width: 580px) {
+    .seccion-about{
+        padding: 5px 140px;
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .seccion-about{
+        padding: 5px 20px;
+        font-size: 12px;
+    }
+}
